@@ -1,11 +1,16 @@
 _repo: The-Geology-of-Groton-State-Forest_60710
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60710-h/images/cover.jpg
 creator:
   author:
     agent_name: Christman, Robert A.
     gutenberg_agent_id: '51093'
     url: http://www.gutenberg.org/2009/agents/51093
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60710#The-Geology-of-Groton-State-Forest
 gutenberg_issued: '2019-11-16'
 gutenberg_type: Text
 identifiers:
